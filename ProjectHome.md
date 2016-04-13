@@ -1,0 +1,1 @@
+Distilled from several applications, this sample application makes use of SubstanceUI and an easy MVC design pattern. Also includes some extra utilities.
